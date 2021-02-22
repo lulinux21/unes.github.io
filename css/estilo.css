@@ -43,12 +43,13 @@ header {
   padding: 10px 8px;
   text-decoration: none;
   border: 1px solid transparent;
+  color: #0431b4;
 }
 
 .menu ul li a:hover {
   border-radius: 3px;
   transition: 0.8s;
-  border: 1px solid #0431b4;
+  border-bottom: 1px solid #0431b4;
 }
 
 .banner {
