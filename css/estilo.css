@@ -137,3 +137,12 @@ main h2 {
 .course p {
   text-align: justify;
 }
+
+footer {
+  max-width: 100%;
+  padding: 20px 0;
+  background-color: #0431b4;
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
